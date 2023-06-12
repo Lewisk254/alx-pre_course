@@ -1,2 +1,1 @@
-hi
-my readme is up to date now
+I am a Software Engineer
